@@ -2,8 +2,7 @@
 #include <EEPROM.h>
 #include "backsmile.h"
 
-\\lol
-\\lolliiissimo
+\\poooooooo
 void loop() {
 
   readAllSensors();
